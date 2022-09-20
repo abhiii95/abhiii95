@@ -25,5 +25,16 @@
    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50">
    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" width="50">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/2048px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" width="50">
+   
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiii95&show_icons=true&hide_border=true)
+
+Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/abhiii95)
+
+---
+
+
+
   <p>
 </div> 
