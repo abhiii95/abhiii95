@@ -30,7 +30,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiii95&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/abhiii95)
 
 ---
 
