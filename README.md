@@ -16,7 +16,7 @@
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
-   <img src="https://brandlogos.net/wp-content/uploads/2020/12/python-logo.png" width="50">
+   <img src="https://mpng.subpng.com/20181128/cbr/kisspng-python-programming-basics-for-absolute-beginners-michigan-python-user-group-5-jul-2-18-5bfef921c53528.7857216715434365778078.jpg" width="50">
    <img src="https://jupyter.org/assets/share.png" width="50">
    <img src="https://www.nicepng.com/png/detail/85-851058_anaconda-icon-anaconda-python-icon.png" width="50">
    <img src="https://financeandbusiness.ucdavis.edu/sites/g/files/dgvnsk4871/files/styles/sf_landscape_16x9/public/images/article/tableau_logo.png?h=c673cd1c&itok=aomysVvE" width="50">
