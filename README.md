@@ -5,7 +5,7 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+  - 🤔 &nbsp; Exploring new technologies and developing software solutions
   - 🎓 &nbsp; Learning Data Science, ML and Deep Learning
   - 💼 &nbsp; Experienced in IT as Software Test Engineer
   - 🌱 &nbsp; Learning more about Machine Learning and Vizualization 
