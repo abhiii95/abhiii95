@@ -1,12 +1,12 @@
-<h1 align="center">Hey there! I'm Abhilash Mishra 👋 </h1>
+<h1 align="center">Hey there! I'm Abhilash Mishra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h1>
 <h3 align="center">🚀 Data Science & ML Enthusiast | Idea Lover ♥ | Experienced IT Professional  🧑‍💻</h3>
 
 <div>
   
   <h3> Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h3>
   
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
-<div align="left"> 
+  <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+  
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions
@@ -36,7 +36,10 @@
 
 
 ---
+    
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
+# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">    
 
 <a href="https://www.linkedin.com/in/abhilash-mishra-b1853a72/">
   <img align="left" alt="Abhilash Mishra" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -50,7 +53,6 @@
 <a href="https://twitter.com/Abhilas18158781">
   <img align="left" alt="Abhilash Mishra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
 <br />
 <br />
 
