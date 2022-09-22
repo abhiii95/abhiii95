@@ -33,7 +33,7 @@
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiii95&show_icons=true&hide_border=true)
-
+<img align="right" alt="PC GIF" src="https://github.com/abhiii95/TheDudeThatCode/blob/master/Assets/Developer.gif" width="190" />
 
 ---
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">    
