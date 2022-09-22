@@ -38,13 +38,20 @@
 ---
 
 
-<a href="https://www.linkedin.com/in/abhilash-mishra-b1853a72//">
-  <img align="left" alt="Abhilash's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/abhilash-mishra-b1853a72/">
+  <img align="left" alt="Abhilash Mishra" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/abhiii95">
-  <img align="left" alt="Abhilash's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://www.facebook.com/abhilash.mishra.7311/">
+  <img align="left" alt="Abhilash Mishra" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.instagram.com/_abhi95__/">
+  <img align="left" alt="Abhilash Mishra" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://twitter.com/Abhilas18158781">
+  <img align="left" alt="Abhilash Mishra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
+<br />
 <br />
 
   <p>
