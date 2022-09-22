@@ -36,9 +36,6 @@
 
 
 ---
-    
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">    
 
 <a href="https://www.linkedin.com/in/abhilash-mishra-b1853a72/">
@@ -55,6 +52,7 @@
 </a>
 <br />
 <br />
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
   <p>
 </div> 
