@@ -1,6 +1,10 @@
 <h1 align="center">Hey there! I'm Abhilash Mishra 👋 </h1>
 <h3 align="center">🚀 Data Science & ML Enthusiast | Idea Lover ♥ | Experienced IT Professional  🧑‍💻</h3>
+
 <div>
+  
+  <h3> Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h3>
+  
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
