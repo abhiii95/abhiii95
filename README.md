@@ -1,11 +1,11 @@
-<h1 align="center">Hey there! I'm Abhilash Mishra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h1>
+<h1 align="center">Hey there! I'm Abhilash Mishra <img src="https://github.com/abhiii95/abhiii95/blob/main/Assets/Mario_Hello_Big.gif" width="30px"></h1>
 <h3 align="center">🚀 Data Science & ML Enthusiast | Idea Lover ♥ | Experienced IT Professional  🧑‍💻</h3>
 
 <div>
   
-  <h3> Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h3>
+  <h3> Welcome to my world <img src="https://github.com/abhiii95/abhiii95/blob/main/Assets/Earth.gif" width="24px"></h3>
   
-  <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+  <img align="right" alt="PC GIF" src="https://github.com/abhiii95/abhiii95/blob/main/Assets/PC.gif" width="190" />
   
   <h3>✏️ About Me </h3>
 
@@ -57,10 +57,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhiii95&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiii95&theme=buefy&layout=compact" />
 </a>
-<img align="right" alt="PC GIF" src="https://github.com/abhiii95/TheDudeThatCode/blob/master/Assets/Developer.gif" width="190" />
+<img align="right" alt="PC GIF" src="https://github.com/abhiii95/abhiii95/blob/main/Assets/Developer.gif" width="190" />
 
 ---
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">    
+# Connect with me<img src="https://github.com/abhiii95/abhiii95/blob/main/Assets/Handshake.gif" height="32px">    
 
 <a href="https://www.linkedin.com/in/abhilash-mishra-b1853a72/">
   <img align="left" alt="Abhilash Mishra" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -76,7 +76,7 @@
 </a>
 <br />
 <br />
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="Mario Game" width="980">
+<img src="https://github.com/abhiii95/abhiii95/blob/main/Assets/dino.gif" alt="Mario Game" width="980">
 
   <p>
 </div> 
