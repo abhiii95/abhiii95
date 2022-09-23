@@ -57,6 +57,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhiii95&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiii95&theme=buefy&layout=compact" />
 </a>
+
 <img align="right" alt="PC GIF" src="https://github.com/abhiii95/abhiii95/blob/main/Assets/Developer.gif" width="190" />
 
 ---
