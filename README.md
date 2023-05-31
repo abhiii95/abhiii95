@@ -9,11 +9,11 @@
   
   <h3>✏️ About Me </h3>
 
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions
-  - 🎓 &nbsp; Learning Data Science, ML and Deep Learning
-  - 💼 &nbsp; Experienced in IT as Software Test Engineer
+  - 🤔 &nbsp; Software Dev Manager
+  - 🎓 &nbsp; Upskilling NLP and Deep Learning
+  - 💼 &nbsp; Experienced in IT as Data Scientist
   - 🌱 &nbsp; Learning more about Machine Learning and Vizualization 
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies 
 </div> 
 </div>
 
