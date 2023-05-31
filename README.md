@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Abhilash Mishra <img src="https://github.com/abhiii95/abhiii95/blob/main/Assets/Mario_Hello_Big.gif" width="30px"></h1>
-<h3 align="center">🚀 Data Science & ML Enthusiast | Idea Lover ♥ | Experienced IT Professional  🧑‍💻</h3>
+<h3 align="center">🚀 Data Science & ML Engineer | Idea Lover ♥ | Experienced IT Professional  🧑‍💻</h3>
 
 <div>
   
